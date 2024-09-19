@@ -1,6 +1,8 @@
 # Proyect_Sprint6
 Proyecto del sprint 6
 
+LINK DEL RENDER: https://proyect-sprint6-j98y.onrender.com/
+
 Para observar los gráficos es necesario dar clic a las casillas de verificación, si desea dejar de ver algún gráfico debe deseleccionar la casilla correspondiete.
 
 La plicación muestra:
